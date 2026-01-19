@@ -21,8 +21,8 @@ const Hero = () => {
   const navigate = useNavigate();
 
   return (
-
-    <section className="min-h-screen flex items-center justify-center bg-[#f5f5f5] px-6">
+ 
+    <section className="min-h-screen bg-transparent flex items-center justify-center px-6">
       <div className="max-w-2xl text-center space-y-6">
         {/* Title */}
         <h1 className="text-4xl md:text-5xl font-serif font-semibold text-gray-900">

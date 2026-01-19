@@ -116,7 +116,7 @@ export default function Decide() {
   };
 
   return (
-    <div className="min-h-screen bg-[#f5f5f5] flex flex-col items-center justify-center gap-10 p-10">
+    <div className="min-h-screen bg-transparent flex flex-col items-center justify-center gap-10 p-10">
       
       {/* PAPERS */}
       <div className="flex gap-10">

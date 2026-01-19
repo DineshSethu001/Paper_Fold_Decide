@@ -1,13 +1,13 @@
-import React from 'react'
+import Layout from './components/Layout'
 import Hero from './components/Hero'
 import Decide from './components/Decide'
 
 const App = () => {
   return (
-    <div>
-      <Hero/>
-      <Decide/>
-    </div>
+    <Layout>
+      <Hero />
+      <Decide />
+    </Layout>
   )
 }
 
